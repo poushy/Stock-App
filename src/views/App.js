@@ -15,8 +15,8 @@ function App() {
           <div className="app-body">
               <Search />
               <Details/>
-              <Overlay />
           </div>
+          <Overlay />
         </div>
     </Provider>
   );
